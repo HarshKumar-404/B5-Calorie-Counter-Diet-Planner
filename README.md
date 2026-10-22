@@ -3,9 +3,6 @@ B5-Calorie-Counter-Diet-Planner
 
 A Flutter-based Calorie Counter and Diet Planner designed to help users track their daily calorie intake and manage their diet.
 
-🔥 Firebase Project Links
-
-- Firebase Project Console: https://console.firebase.google.com/project/neutrifit-e4cec/overview
 - Live Website: https://neutrifit-e4cec.web.app
 
 🌐 Live Demo
