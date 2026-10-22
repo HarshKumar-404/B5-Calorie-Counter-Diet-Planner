@@ -1,22 +1,17 @@
-# B5-Calorie-Counter-Diet-Planner.
-B5-Calorie-Counter-Diet-Planner
+# project
 
-A Flutter-based Calorie Counter and Diet Planner designed to help users track their daily calorie intake and manage their diet.
+A new Flutter project.
 
-- Live Website: https://neutrifit-e4cec.web.app
+## Getting Started
 
-🌐 Live Demo
+This project is a starting point for a Flutter application.
 
-Try the deployed application here:
+A few resources to get you started if this is your first Flutter project:
 
-https://neutrifit-e4cec.web.app
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-🛠️ Technologies Used
-
-- Flutter
-- Dart
-- Firebase Hosting
-
-📌 Project Information
-
-This project focuses on calorie tracking and diet planning through a user-friendly interface.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
