@@ -116,7 +116,7 @@ You can access the deployed web application directly through your browser withou
 
 ## 👨‍💻 Author
 
-**GitHub:** [@motivxcel404-dev](https://github.com/HarshKumar-404)
+**GitHub:** [@HarshKumar-404](https://github.com/HarshKumar-404)
 
 ## 📄 License
 
