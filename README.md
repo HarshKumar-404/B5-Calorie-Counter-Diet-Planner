@@ -5,7 +5,7 @@ NeutriFIT is a Flutter-based calorie counter and diet planner designed to help u
 ## 🔗 Important Links
 
 - **🌐 Live App:** [Open NeutriFIT](https://neutrifit-e4cec.web.app/)
-- **📦 GitHub Repository:** [B5-Calorie-Counter-Diet-Planner.](https://github.com/motivxcel404-dev/B5-Calorie-Counter-Diet-Planner.)
+- **📦 GitHub Repository:** [B5-Calorie-Counter-Diet-Planner.](https://github.com/motivxcel404-dev/B5-Calorie-Counter-Diet-Planner)
 - **🔥 Firebase Project Console:** [Open Firebase Console](https://console.firebase.google.com/project/neutrifit-e4cec/overview)
 
 ## ✨ Features
